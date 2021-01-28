@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvName"
+        style="@style/DefaultTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        tools:text="Name: Ukraine" />
+
+    <TextView
+        android:id="@+id/tvCapital"
+        style="@style/DefaultTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        tools:text="Capital: Ukraine" />
+
+    <TextView
+        android:id="@+id/tvPopulation"
+        style="@style/DefaultTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        tools:text="Population: Ukraine" />
+
+    <TextView
+        android:id="@+id/tvArea"
+        style="@style/DefaultTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        tools:text="Area: Ukraine" />
+
+    <TextView
+        android:id="@+id/tvDensity"
+        style="@style/DefaultTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        tools:text="Density: Ukraine" />
+
+</LinearLayout>
