@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">PmAcademyAndroid-Metelov-L16</string>
     <string name="country_name">Name: %s</string>
-    <string name="country_capital">Capital: %s</string>
-    <string name="country_population">Population: %d</string>
-    <string name="country_area">Area: %.2f km^2</string>
-    <string name="country_density">Density: %.2f ppl/km^2</string>
+    <string name="country_population">Population: %.2f M</string>
+    <string name="country_area">Area: %.0f square kilometers</string>
+    <string name="country_density">Density: %.2f </string>
 </resources>

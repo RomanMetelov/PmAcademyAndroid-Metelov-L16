@@ -7,23 +7,15 @@
 
     <TextView
         android:id="@+id/tvName"
-        style="@style/DefaultTextStyle"
+        style="@style/FragmentTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="12dp"
         tools:text="Name: Ukraine" />
 
     <TextView
-        android:id="@+id/tvCapital"
-        style="@style/DefaultTextStyle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="12dp"
-        tools:text="Capital: Ukraine" />
-
-    <TextView
         android:id="@+id/tvPopulation"
-        style="@style/DefaultTextStyle"
+        style="@style/FragmentTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="12dp"
@@ -31,7 +23,7 @@
 
     <TextView
         android:id="@+id/tvArea"
-        style="@style/DefaultTextStyle"
+        style="@style/FragmentTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="12dp"
@@ -39,7 +31,7 @@
 
     <TextView
         android:id="@+id/tvDensity"
-        style="@style/DefaultTextStyle"
+        style="@style/FragmentTextStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="12dp"
